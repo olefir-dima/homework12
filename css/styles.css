@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+}
+
+.img-container {
+  height: 600px;
+  max-width: 600px;
+  margin: 10px auto;
+}
+
+#randomImg {
+  width: auto;
+  height: 100%;
+  max-width: 100%;
+}
+
+.btn {
+  background-color: #086f18;
+  color: #fff;
+  padding: 12px;
+  border-radius: 12px;
+}
